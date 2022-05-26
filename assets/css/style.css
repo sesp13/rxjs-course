@@ -10,10 +10,6 @@ body{
     background-color: #18202F;
 }
 
-h1 {
-    font-weight: lighter;
-}
-
 input, button {
     width: 35%;
     padding: 10px;
